@@ -24,11 +24,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevisWisley&" alt="DevisWisley" /></p>
 
 ## <b>🛠️ Languages-Frameworks-Tools </b>
-  <code><img src="https://skillicons.dev/icons?i=html,css,javascript,php,py,svg"/></code>
-  <code><img src="https://skillicons.dev/icons?i=bootstrap,react,tailwind,vite"/></code>
-  <code><img src="https://skillicons.dev/icons?i=androidstudio,git,github,powershell,pycharm,sublime,visualstudio,vscode,windows"/></code>
+  <code><img src="https://skillicons.dev/icons?i=c,cs,cpp,css,go,gradle,html,java,javascript,jquery,kotlin,lua,md,php,py,svg"/></code>
+  <code><img src="https://skillicons.dev/icons?i=bootstrap,express,laravel,react,tailwind,vite"/></code>
+  <code><img src="https://skillicons.dev/icons?i=androidstudio,figma,firebase,flutter,git,github,powershell,pycharm,sublime,visualstudio,vscode"/></code>
 
-## <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
+## <b>🛠️ Used Languages</b>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevisWisley&show_icons=true&locale=en&layout=compact" alt="DevisWisley" /></p>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevisWisley)](https://github.com/anuraghazra/github-readme-stats)
