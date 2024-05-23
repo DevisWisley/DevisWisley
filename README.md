@@ -32,9 +32,7 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevisWisley)](https://github.com/anuraghazra/github-readme-stats)
   </a>
-  ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevisWisley&layout=compact&theme=radical)
-  ![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevisWisley&layout=compact&theme=radical)
-
+  
 ```
   ____                  ____
  / __ \___  ___ ___    / __/__  __ _____________
