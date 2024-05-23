@@ -23,9 +23,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevisWisley&" alt="DevisWisley" /></p>
 
-## <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
-  <code><img src="https://skillicons.dev/icons?i=html,css,javascript"/></code>
-  <code><img src="https://skillicons.dev/icons?i=windows,vscode,powershell,git,github"/></code>
+## <b>🛠️ Languages-Frameworks-Tools </b>
+  <code><img src="https://skillicons.dev/icons?i=html,css,javascript,php,py,svg"/></code>
+  <code><img src="https://skillicons.dev/icons?i=bootstrap,react,tailwind,vite"/></code>
+  <code><img src="https://skillicons.dev/icons?i=androidstudio,git,github,powershell,pycharm,sublime,visualstudio,vscode,windows"/></code>
 
 ## <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevisWisley&show_icons=true&locale=en&layout=compact" alt="DevisWisley" /></p>
