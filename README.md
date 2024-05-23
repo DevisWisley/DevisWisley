@@ -5,9 +5,11 @@
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning ReactJS, TailwindCSS Vite
+- 👯 I’m looking to collaborate as Web Developer
 - 👨‍💻 All of my projects are available at [github.com/DevisWisley](https://github.com/DevisWisley?tab=repositories)
-
+- 📫 How to reach me: deviswisley27@gmail.com
 - ⚡ Fun fact **I am funny😅**
+- 💬 Ask me about anything
 
 <center>
 
