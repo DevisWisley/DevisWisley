@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning ReactJS, TailwindCSS Vite
+- 🌱 &nbsp;I’m currently learning ReactJS, TailwindCSS, Vite
 - 👯 I’m looking to collaborate as Web Developer
 - 👨‍💻 All of my projects are available at [github.com/DevisWisley](https://github.com/DevisWisley?tab=repositories)
 - 📫 How to reach me: deviswisley27@gmail.com
