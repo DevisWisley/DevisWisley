@@ -24,9 +24,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevisWisley&" alt="DevisWisley" /></p>
 
 ## <b>🛠️ Languages-Frameworks-Tools </b>
-  <code><img src="https://skillicons.dev/icons?i=c,cs,cpp,css,go,gradle,html,java,javascript,jquery,kotlin,lua,md,php,py,svg"/></code>
-  <code><img src="https://skillicons.dev/icons?i=bootstrap,express,laravel,react,tailwind,vite"/></code>
-  <code><img src="https://skillicons.dev/icons?i=androidstudio,figma,firebase,flutter,git,github,powershell,pycharm,sublime,visualstudio,vscode"/></code>
+  <code><img src="https://skillicons.dev/icons?i=c,cs,cpp,css,go,html,java,javascript,kotlin,lua,md,php,py,sass,svg"/></code>
+  <code><img src="https://skillicons.dev/icons?i=bootstrap,gradle,materialui,jquery,nextjs,nodejs,npm,react,tailwind,vite,wordpress"/></code>
+  <code><img src="https://skillicons.dev/icons?i=androidstudio,figma,firebase,flutter,git,github,matlab,mysql,powershell,pycharm,sublime,visualstudio,vscode,windows"/></code>
 
 ## <b>🛠️ Used Languages</b>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevisWisley&show_icons=true&locale=en&layout=compact" alt="DevisWisley" /></p>
