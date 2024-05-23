@@ -24,7 +24,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevisWisley&" alt="DevisWisley" /></p>
 
 ## <b>🛠️ Languages-Frameworks-Tools </b>
-  <code><img src="https://skillicons.dev/icons?i=c,cs,cpp,css,go,html,java,javascript,kotlin,lua,md,php,py,sass"/></code>
+  <code><img src="https://skillicons.dev/icons?i=c,cs,cpp,css,go,html,java,javascript,kotlin,md,php,py,sass"/></code>
   <code><img src="https://skillicons.dev/icons?i=bootstrap,gradle,materialui,jquery,nextjs,nodejs,npm,react,tailwind,vite"/></code>
   <code><img src="https://skillicons.dev/icons?i=androidstudio,figma,firebase,flutter,git,github,matlab,mysql,powershell,pycharm,sublime,visualstudio,vscode"/></code>
 
