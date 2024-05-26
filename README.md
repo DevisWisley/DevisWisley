@@ -24,9 +24,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevisWisley&" alt="DevisWisley" /></p>
 
 ## <b>🛠️ Languages-Frameworks-Tools </b>
-  <code><img src="https://skillicons.dev/icons?i=css,html,javascript,md"/></code>
-  <code><img src="https://skillicons.dev/icons?i=jquery"/></code>
-  <code><img src="https://skillicons.dev/icons?i=git,github,powershell,sublime,vscode"/></code>
+  <code><img src="https://skillicons.dev/icons?i=css,html,javascript,md,php"/></code>
+  <code><img src="https://skillicons.dev/icons?i=bootstrap,jquery"/></code>
+  <code><img src="https://skillicons.dev/icons?i=git,github,mysql,powershell,sublime,vscode"/></code>
 
 ## <b>🛠️ Used Languages</b>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevisWisley&show_icons=true&locale=en&layout=compact" alt="DevisWisley" /></p>
