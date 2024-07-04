@@ -24,7 +24,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevisWisley&" alt="DevisWisley" /></p>
 
 ## <b>🛠️ Languages-Frameworks-Tools </b>
-  <code><img src="https://skillicons.dev/icons?i=css,html,javascript,md,php"/></code>
+  <code><img src="https://skillicons.dev/icons?i=css,html,java,javascript,md,php"/></code>
   <code><img src="https://skillicons.dev/icons?i=bootstrap,jquery"/></code>
   <code><img src="https://skillicons.dev/icons?i=git,github,mysql,powershell,sublime,vscode"/></code>
 
