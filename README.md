@@ -26,7 +26,7 @@
 ## <b>🛠️ Languages-Frameworks-Tools </b>
   <code><img src="https://skillicons.dev/icons?i=css,html,java,javascript,md,php,svg"/></code>
   <code><img src="https://skillicons.dev/icons?i=bootstrap,jquery,tailwind"/></code>
-  <code><img src="https://skillicons.dev/icons?i=codepen,eclipse,git,github,mysql,powershell,sublime,vscode"/></code>
+  <code><img src="https://skillicons.dev/icons?i=codepen,eclipse,git,github,mysql,powershell,sublime,vercel,vscode"/></code>
 
 ## <b>🛠️ Used Languages</b>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevisWisley&show_icons=true&locale=en&layout=compact" alt="DevisWisley" /></p>
