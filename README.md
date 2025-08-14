@@ -33,7 +33,7 @@
 ## <b>🛠️ Used Languages</b>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevisWisley&show_icons=true&locale=en&layout=compact" alt="DevisWisley" /></p>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevisWisley)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevisWisley)](https://github.com/DevisWisley/github-readme-stats)
   </a>
   
 ```
