@@ -30,11 +30,22 @@
   <br><br>
   <code><img src="https://skillicons.dev/icons?i=androidstudio,codepen,figma,git,github,mongodb,mysql,postgres,postman,pycharm,sublime,stackoverflow,vercel,visualstudio,vscode"/></code>
 
-## <b>🛠️ Used Languages</b>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevisWisley&show_icons=true&locale=en&layout=compact" alt="DevisWisley" /></p>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevisWisley)](https://github.com/DevisWisley/github-readme-stats)
+## 🛠️ Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevisWisley&layout=donut" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevisWisley&layout=compact" width="400" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevisWisley&langs_count=8" width="400" />
   </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevisWisley&layout=pie" width="400" />
+  </a>
+</p>
+
   
 ```
   ____                  ____
