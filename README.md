@@ -26,7 +26,7 @@
 ## <b>🛠️ Languages-Frameworks-Tools </b>
   <code><img src="https://skillicons.dev/icons?i=c,cpp,css,dart,go,html,java,javascript,lua,md,php,py,regex,sass,ts"/></code>
   <br><br>
-  <code><img src="https://skillicons.dev/icons?i=bootstrap,django,flutter,gradle,jquery,laravel,materialui,maven,nextjs,nodejs,npm,react,tailwind,vite"/></code>
+  <code><img src="https://skillicons.dev/icons?i=bootstrap,django,flutter,gradle,jquery,laravel,materialui,maven,nextjs,nodejs,npm,react,tailwind,threejs,vite"/></code>
   <br><br>
   <code><img src="https://skillicons.dev/icons?i=androidstudio,codepen,figma,git,github,mongodb,mysql,postgres,postman,pycharm,sublime,stackoverflow,vercel,visualstudio,vscode"/></code>
 
