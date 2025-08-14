@@ -66,9 +66,6 @@
   
   <br/><br/><br/>
 </div>
-
-### ⏳ Weekly Development Breakdown
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 ## 💖 Support the Project
 
 Thank you so much already for using my projects! If you want to go a step further and support my open source work, buy me a coffee:
