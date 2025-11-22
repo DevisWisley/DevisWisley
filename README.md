@@ -26,7 +26,7 @@
   <br><br>
     <code><img src="https://skillicons.dev/icons?i=cassandra,firebase,mongodb,mysql,postgres,sqlite,supabase"/>
   <br><br>
-  <code><img src="https://skillicons.dev/icons?i=androidstudio,cloudflare,codepen,figma,git,github,githubactions,gitlab,netlify,postman,sublime,sklearn,vercel,visualstudio,vscode"/></code>
+  <code><img src="https://skillicons.dev/icons?i=androidstudio,cloudflare,codepen,figma,git,github,gitlab,netlify,postman,pytorch,sublime,sklearn,vercel,visualstudio,vscode"/></code>
 
 ## 🛠️ Used Languages
 
