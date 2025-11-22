@@ -17,10 +17,6 @@
 
 </center>
 
-### Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/DevisWisley/count.svg)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevisWisley&" alt="DevisWisley" /></p>
 
 ## <b>🛠️ Languages-Frameworks-Tools </b>
