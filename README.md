@@ -24,7 +24,7 @@
   <br><br>
     <code><img src="https://skillicons.dev/icons?i=bootstrap,django,flask,flutter,gradle,jquery,laravel,maven,nextjs,nodejs,npm,react,tailwind,threejs,vite"/></code>
   <br><br>
-    <code><img src="https://skillicons.dev/icons?i=cassandra,firebase,mongodb,mysql,postgres,sqlite,supabase"/>
+    <code><img src="https://skillicons.dev/icons?i=cassandra,firebase,mongodb,mysql,postgres,sqlite,supabase"/></code>
   <br><br>
   <code><img src="https://skillicons.dev/icons?i=androidstudio,cloudflare,codepen,figma,git,github,gitlab,netlify,postman,pytorch,sublime,sklearn,vercel,visualstudio,vscode"/></code>
 
