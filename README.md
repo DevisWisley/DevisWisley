@@ -19,12 +19,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevisWisley&" alt="DevisWisley" /></p>
 
-## <b>🛠️ Languages-Frameworks-Tools </b>
-  <code><img src="https://skillicons.dev/icons?i=c,cpp,css,dart,go,html,java,javascript,lua,md,php,py,regex,sass,ts"/></code>
+## <b>🛠️ Languages-Frameworks-Database-Tools </b>
+  <code><img src="https://skillicons.dev/icons?i=alpinejs,c,cpp,css,dart,go,html,java,javascript,lua,md,php,py,ts,vue"/></code>
   <br><br>
-  <code><img src="https://skillicons.dev/icons?i=bootstrap,django,flutter,gradle,jquery,laravel,materialui,maven,nextjs,nodejs,npm,react,tailwind,threejs,vite"/></code>
+    <code><img src="https://skillicons.dev/icons?i=bootstrap,django,flask,flutter,gradle,jquery,laravel,maven,nextjs,nodejs,npm,react,tailwind,threejs,vite"/></code>
   <br><br>
-  <code><img src="https://skillicons.dev/icons?i=androidstudio,codepen,figma,git,github,mongodb,mysql,postgres,postman,pycharm,sublime,stackoverflow,vercel,visualstudio,vscode"/></code>
+    <code><img src="https://skillicons.dev/icons?i=cassandra,firebase,mongodb,mysql,postgres,sqlite,supabase"/>
+  <br><br>
+  <code><img src="https://skillicons.dev/icons?i=androidstudio,cloudflare,codepen,figma,git,github,githubactions,gitlab,netlify,postman,sublime,sklearn,vercel,visualstudio,vscode"/></code>
 
 ## 🛠️ Used Languages
 
