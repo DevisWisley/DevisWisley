@@ -17,8 +17,6 @@
 
 </center>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevisWisley&" alt="DevisWisley" /></p>
-
 ## <b>🛠️ Languages-Frameworks-Database-Tools </b>
   <code><img src="https://skillicons.dev/icons?i=alpinejs,c,cpp,css,dart,go,html,java,javascript,lua,md,php,py,ts,vue"/></code>
   <br><br>
